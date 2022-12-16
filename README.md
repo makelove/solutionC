@@ -2,6 +2,8 @@
 description: 简介可选的方法
 ---
 
+## [github 仓库](https://github.com/makelove/solutionC)
+
 # Page 1
 
 books
